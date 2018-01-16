@@ -1,1 +1,1 @@
-# Social-networking-database
+# Society Management System
